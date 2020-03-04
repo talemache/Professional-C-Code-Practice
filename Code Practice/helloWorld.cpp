@@ -1,3 +1,5 @@
+// Prints "Hello World!" onto the screen
+
 #include <iostream>
 
 int main(){
